@@ -72,7 +72,7 @@ cd Time-Series-Forecasting
 pip install tensorflow pandas numpy matplotlib seaborn scikit-learn
 ```
 
-3. Download the dataset from [Kaggle Competition](https://www.kaggle.com/competitions/air-quality-forecasting)
+3. Download the dataset from [Kaggle Competition](https://www.kaggle.com/competitions/assignment-1-time-series-forecasting-septemb-2025)
 
 ### Usage
 1. Place dataset files in the `data/` directory:
