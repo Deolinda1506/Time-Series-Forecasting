@@ -1,7 +1,5 @@
 # Air Quality Forecasting using LSTM Networks
-
 A comprehensive machine learning project for predicting PM2.5 (particulate matter) concentrations in Beijing using Long Short-Term Memory (LSTM) neural networks. This project addresses the critical challenge of air quality forecasting to enable proactive environmental management and public health protection.
-
 ## Project Overview
 
 This project implements and evaluates multiple LSTM architectures to forecast air pollution levels using historical meteorological and air quality data from Beijing (2010-2013). The goal is to achieve accurate PM2.5 predictions with RMSE below 4000 on the Kaggle leaderboard.
