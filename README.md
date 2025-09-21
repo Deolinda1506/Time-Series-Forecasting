@@ -118,14 +118,14 @@ Time-Series-Forecasting-1/
 ├── notebook/                       # Jupyter notebooks
 │   └── Deolinda_air_quality_forecasting_starter_code.ipynb
 ├── submissions/                    # Generated predictions
-│   ├── submission.csv             # Initial submission
-│   ├── submission1.csv            # Experiment 1 results
-│   ├── submission2.csv            # Experiment 2 results
-│   ├── submission3.csv            # Experiment 3 results
-│   ├── submission4.csv            # Experiment 4 results
-│   ├── submission5.csv            # Experiment 5 results
-│   └── submission6.csv            # Best model (Exp_6) - RMSE 50.06
-├── Air_Quality_Forecasting_Report.md  # Comprehensive report
+│   ├── submission.csv             
+│   ├── submission1.csv            
+│   ├── submission2.csv            
+│   ├── submission3.csv            
+│   ├── submission4.csv            
+│   ├── submission5.csv            
+│   └── submission6.csv            
+├──
 └── README.md                      # This file
 ```
 
@@ -144,7 +144,9 @@ Time-Series-Forecasting-1/
 4. **Evaluation**: RMSE and MSE metrics
 
 ### Experimental Framework
-- **15 Model Configurations**: Varying architectures and hyperparameters
+- **5 Initial Models**: Progressive complexity from baseline to advanced architectures
+- **10 Systematic Experiments**: Additional hyperparameter optimization (Exp_6 to Exp_15)
+- **15 Total Models**: Comprehensive evaluation across different configurations
 - **Systematic Evaluation**: Consistent preprocessing and evaluation procedures
 - **Performance Analysis**: Comprehensive comparison and trend analysis
 
